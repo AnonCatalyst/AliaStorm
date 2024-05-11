@@ -160,6 +160,9 @@ def print_html(html_content, url, query, include_titles=True, include_descriptio
 
 
 def main(username):
+
+    print(f"\n    {Fore.CYAN}ＡＬＩＡＳＴＯＲＭ{Style.RESET_ALL}\n")
+
     with open("src/urls.txt", "r") as f:
         url_list = [x.strip() for x in f.readlines()]
 
