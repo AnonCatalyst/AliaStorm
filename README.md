@@ -1,6 +1,6 @@
 # AliaStorm
 
-AliaStorm is a versatile Python script designed for efficiently searching for a specific username across a curated list of URLs. It provides detailed results and customizable search options, making it a valuable tool for monitoring online presence or investigating username usage across various websites.
+AliaStorm is a versatile Python script designed for efficiently searching for a specific username across a curated list of URLs. It provides detailed results and customizable search options, making it a valuable tool for monitoring online presence or investigating username usage across various websites. AliaStrom is also a counter part of Ominis-Osint Web Hunter
 
 ## Features
 
