@@ -16,7 +16,7 @@ AliaStorm is a versatile Python script designed for efficiently searching for a 
 To use AliaStorm, ensure you have the following packages installed:
 
 - colorama
-- requests-html
+- requests_html
 - beautifulsoup4
 
 You can install these packages using pip: ``pip install -r requirements.txt --break-system-packages``
